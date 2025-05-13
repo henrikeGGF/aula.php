@@ -1,6 +1,6 @@
 <?php
 
-// A ideia é que selecione  código que vai execrutar e clicar Ctrl + ;
+// a A ideia é que selecione  código que vai execrutar e clicar Ctrl + ;
 
 //Ex 1
 // $aluno = ["Arroz", "Bancom", "Carne", "Doritos", "Ervilha", "Farinha", "Goiba", "Hanbuger"];
